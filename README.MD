@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub)
-- Live Site URL: [Add live site URL here](https://3-cs.vercel.app/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/3-column-card-component-card-Yw06PxxYzp)
+- Live Site URL: [Live Site URL](https://3-cs.vercel.app/)
 
 ## My process
 
