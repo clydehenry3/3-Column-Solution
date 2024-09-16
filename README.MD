@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/3-Column%20Screenshot.png)
+![](3CS%20Screenshot.png)
 
 ### Links
 
